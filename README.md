@@ -58,8 +58,8 @@ cd Deep-Live-Cam
 
 #### 2. Download Required Models
 Download the following model files and place them in the `models` folder:
-- [GFPGANv1.4](https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth)
-- [inswapper_128_fp16.onnx](https://drive.google.com/file/d/1HvZ4MAtzlY74Dk4ASGIS9L6Rg5oZdqvu/view)
+- [GFPGANv1.4](https://huggingface.co/hacksider/deep-live-cam/resolve/main/GFPGANv1.4.pth)
+- [inswapper_128_fp16.onnx](https://huggingface.co/hacksider/deep-live-cam/resolve/main/inswapper_128_fp16.onnx)
 
 #### 3. Set Up Virtual Environment
 
