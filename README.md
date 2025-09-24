@@ -52,8 +52,8 @@ Ensure you have the following installed on your system:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/hacksider/Deep-Live-Cam.git
-cd Deep-Live-Cam
+git clone https://github.com/Saurav-Astro/Ghost_in_the_pic.git
+cd Ghost_in_the_pic
 ```
 
 #### 2. Download Required Models
