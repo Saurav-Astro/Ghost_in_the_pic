@@ -160,7 +160,7 @@ For technical support, ethical concerns, or general inquiries, please open an is
 
 ## 📄 License
 
-This project is licensed under [LICENSE_TYPE] - see the LICENSE file for details.
+This project is licensed under [LICENSE_TYPE](https://github.com/Saurav-Astro/Ghost_in_the_pic/blob/main/LICENSE) - see the LICENSE file for details.
 
 ---
 
